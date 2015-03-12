@@ -7,6 +7,8 @@ As per the instructions there was a limited time to spend on this exercise, so m
 - The computer is not smart at all. It should preferably know that it's better to pick the center and corners, and the basics of blocking.
 - When the game ends you're asked if you want to play again. When saying yes you should be remembered by the friendly computer opponent.
 - The board would be better split into its own function to keep TicTacToe concerned about the game only
-## To run the game
+
+## To run the game:
+
 `ruby ttt.rb`
 
